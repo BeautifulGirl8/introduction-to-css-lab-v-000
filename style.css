@@ -1,6 +1,6 @@
 /* Tag selector to select the 'body' element */
 body {
-  color: #00b3e6;
+  background-color: #00b3e6;
   /* Your code here! */
 }
 
@@ -9,7 +9,7 @@ div {
   /* Your code here! */
   margin: auto;
   font-family: Helvetica Neue;
-  color: white;
+  background-color: white;
   padding: 30px;
 }
 
